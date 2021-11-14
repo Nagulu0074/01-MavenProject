@@ -2,7 +2,9 @@ package com.maven1;
 
 public class DateUtil {
 
-	
+	public void doProcess01()
+{
+}
 	public void m1() {
 		
 	}
