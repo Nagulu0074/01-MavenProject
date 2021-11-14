@@ -2,7 +2,14 @@ package com.maven1;
 
 public class DateUtil {
 
+
 	private Map<String,Object> cache=new HashMap<String,Object>()
+
+
+    public void doProcess01()
+{
+}
+
 	public void m1() {
 		
 	}
